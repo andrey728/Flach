@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\Users\Андрей\source\repos\Flach\MyForm.h(394,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Андрей\source\repos\Flach\MyForm.h(415,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Flach.vcxproj -> C:\Users\Андрей\source\repos\Flach\Debug\Flach.exe
